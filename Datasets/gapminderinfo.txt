@@ -1,0 +1,38 @@
+
+  wbdhe ---   API_SH.XPD.CHEX.GD.ZS_DS2_en_csv_v2_13838.csv --- World Bank data, health expenditure % of GDP. 
+
+  arppc --- aid_received_per_person_current_us.csv --- Gapminder
+
+  albsoap --- at_least_basic_sanitation_overall_access_percent.csv --- Gapminder
+
+  albwsoap --- at_least_basic_water_source_overall_access_percent.csv --- Gapminder
+
+  cm ---child_mortality_0_5_year_olds_dying_per_1000_born.csv --- Gapminder
+
+  co2 --- co2_pcap_cons.csv --- Gapminder, c02 emissions per capita
+
+  demox --- demox_eiu.csv --- Gapminder, democracy index
+
+  funemployment --- females_aged_25_54_unemployment_rate_percent.csv --- Gapminder
+
+  gdp --- gdp_pcap.csv --- Gapminder
+
+  povrate --- gm_685pov_rate.csv --- Gapminder, poverty rate
+
+  isr10 ---  income_share_of_richest_10percent.csv --- Gapminder
+
+  iu --- internet_users.csv --- Gapminder
+
+  muneployment --- males_aged_25_54_unemployment_rate_percent.csv --- Gapminder
+
+  adi --- mincpcap_cppp.csv --- Gapminder, average daily income.
+
+  pop --- pop.csv --- Gapminder, total population
+
+  popdens --- population_density_per_square_km.csv 
+
+  vac --- vccine_imptn_dag.csv --- Gapminder, percentage of people that disagree that vaccines are effective for children. 
+
+  whpw --- working_hours_per_week.csv --- Gapminder
+
+  lex --- lex.csv --- Gapminder, life expectancy  
