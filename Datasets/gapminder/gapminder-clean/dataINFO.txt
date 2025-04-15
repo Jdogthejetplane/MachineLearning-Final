@@ -25,6 +25,8 @@
 
   muneployment --- males_aged_25_54_unemployment_rate_percent.csv --- Gapminder
 
+  adi --- mincpcap_cppp.csv --- Gapminder, average daily income.
+
   pop --- pop.csv --- Gapminder, total population
 
   popdens --- population_density_per_square_km.csv 
